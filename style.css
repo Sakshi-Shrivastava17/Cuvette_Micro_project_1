@@ -25,9 +25,11 @@
 
 #right {
   float: right;
+  margin-left: 20px;
 }
 #left {
   float: left;
+  margin-left: 20px;
 }
 ul {
   list-style: none;
@@ -66,9 +68,8 @@ h1 {
   border-radius: 4px;
 }
 img {
-  padding-left: 20px;
   padding-top: 20px;
-  padding-right: 20px;
+
   padding-bottom: 20px;
 }
 #free {

@@ -1,0 +1,93 @@
+.header {
+  position: fixed;
+  height: 99%;
+  width: 100%;
+  background-color: #ffcd9e;
+  color: beige;
+  text-align: left;
+  top: 0;
+  left: 0;
+}
+
+.footer {
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  background-color: black;
+  color: beige;
+  text-align: right;
+}
+#rig {
+  text-align: right;
+  padding-right: 100px;
+}
+
+#right {
+  float: right;
+}
+#left {
+  float: left;
+}
+ul {
+  list-style: none;
+}
+
+h1 {
+  color: #282828;
+  font-size: 50px;
+  padding-left: 50px;
+  padding-top: 20px;
+  padding-right: 40%;
+  padding-bottom: 20px;
+}
+
+#our {
+  color: #484848;
+  font-size: 20px;
+  padding-left: 60px;
+  padding-top: 20px;
+  padding-right: 60%;
+  padding-bottom: 20px;
+  text-align: justify;
+}
+#show {
+  color: #282828;
+  font-size: 30px;
+  padding-left: 60px;
+  padding-top: 20px;
+  padding-right: 20%;
+  padding-bottom: 20px;
+}
+#email {
+  border: 2px solid #000;
+  border-color: black;
+  color: #888888;
+  border-radius: 4px;
+}
+img {
+  padding-left: 20px;
+  padding-top: 20px;
+  padding-right: 20px;
+  padding-bottom: 20px;
+}
+#free {
+  font-size: 18px;
+  padding-left: 60px;
+  padding-top: 20px;
+  padding-right: 20%;
+  padding-bottom: 20px;
+  text-align: justify;
+}
+.flex-container {
+  padding-left: 60px;
+  padding-top: 20px;
+  padding-right: 20%;
+  padding-bottom: 20px;
+  flex-direction: column;
+  display: flex;
+}
+button {
+  background-color: #282828;
+  color: white;
+}
